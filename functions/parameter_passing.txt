@@ -1,0 +1,7 @@
+when Go pass value to a func if it's a variable int it will pass the value
+
+but if the variable was slice or map it will pas the refrence
+
+if you want to change the int variable after func finish you can 
+use pointer
+
