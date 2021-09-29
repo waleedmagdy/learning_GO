@@ -52,7 +52,3 @@ func main() {
 	}
 	fmt.Println(t1.Value())
 }
-
-//test
-//test
-//test
