@@ -7,7 +7,7 @@ func add(a int, b int) int {
 	return a + b
 }
 
-//fun to divide two numbers and return value and reminder
+//function to divide two numbers and return value and reminder
 func divmod(a int, b int) (int, int) {
 	return a / b, a % b
 }
